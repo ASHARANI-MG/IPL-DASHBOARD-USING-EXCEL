@@ -10,6 +10,16 @@ This project features an interactive Excel dashboard built using IPL data to ana
 - Clean and user-friendly dashboard layout 
 - Protected layout with user interaction enabled
 
+  ## Technologies
+
+- Microsoft Excel  
+- Excel Charts
+- Power Query
+- Power Pivot
+- Pivot Tables
+- Pivot Charts 
+- Conditional Formatting 
+
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Image](https://github.com/ASHARANI-MG/EXCEL-PROJECTS/blob/main/DASHBOARD.png?raw=true)
