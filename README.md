@@ -18,11 +18,10 @@ This project features an interactive Excel dashboard built using IPL data to ana
 - Power Pivot
 - Pivot Tables
 - Pivot Charts 
-- Conditional Formatting 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Image](https://github.com/ASHARANI-MG/EXCEL-PROJECTS/blob/main/DASHBOARD.png?raw=true)
+![Dashboard Image](https://github.com/ASHARANI-MG/IPL-DASHBOARD-USING-EXCEL/blob/main/DASHBOARD.png?raw=true)
 
 ## 🔒 Sheet Protection
 
