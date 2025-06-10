@@ -1,23 +1,22 @@
 # 🏏 IPL Excel Dashboard
 
-This project features an interactive Excel dashboard built using IPL data to analyze team performance, match outcomes, and player achievements.
+An interactive Excel dashboard built using IPL data to analyze team performance, match outcomes, and player achievements.
 
 ## 📊 Features
 
-- Visualizations using charts (bar charts, stacked columns, donut charts, tree charts etc.)  
-- KPIs with custom formatting 
-- Dynamic data analysis for IPL seasons  
-- Clean and user-friendly dashboard layout 
-- Protected layout with user interaction enabled
+- Multiple chart types: bar, stacked column, donut, tree maps, and more  
+- Key Performance Indicators (KPIs) with custom formatting  
+- Dynamic data filtering across IPL seasons  
+- Clean and user-friendly layout  
+- Protected sheet with interactive slicers and filters
 
-  ## Technologies
+## ⚙️ Technologies Used
 
-- Microsoft Excel  
-- Excel Charts
-- Power Query
-- Power Pivot
-- Pivot Tables
-- Pivot Charts 
+- Microsoft Excel (2021)  
+- Power Query  
+- Power Pivot  
+- Pivot Tables & Pivot Charts  
+- Excel Formulas & Slicers
 
 ## 🖼️ Dashboard Preview
 
@@ -25,33 +24,34 @@ This project features an interactive Excel dashboard built using IPL data to ana
 
 ## 🔒 Sheet Protection
 
-To maintain dashboard structure, the sheet is protected.  
-However, **slicers and filters are fully usable** for interactive analysis.
+To maintain structure, the sheet is protected, but all interactive elements remain usable.
 
-- **🔑 Password to unprotect sheet**: `IPL`
+- **Password to unprotect**: `IPL`
 
 > To unprotect:  
 > Go to `Review` > `Unprotect Sheet` > Enter the password above.
 
 ## 📁 Files Included
 
-- `IPL_Dashboard.xlsx` – The main Excel file with visuals and slicers
-- `IPL_DATASET.xlsx` – Source data file used for dashboard creation
-- `Images/` – Contains logos and the dashboard preview image
+- `IPL_Dashboard.xlsx` – Main Excel file with visuals and slicers  
+- `Images/` – Logos and dashboard preview image  
+> 📩 *The source dataset is not included in this repository. If you’d like access for educational purposes, feel free to contact me at **ashaa12gowda@gmail.com**.*
 
 ## 🚀 How to Use
 
-1. Download or clone this repository
-2. Open `IPL_Dashboard.xlsx` (make sure `IPL_DATASET.xlsx` is in the same folder if it’s linked)
-3. Use slicers to explore the dashboard
-4. (Optional) Unprotect sheet using the password if you want to edit it
+1. Download or clone this repository  
+2. Open `IPL_Dashboard.xlsx`  
+3. Use slicers to explore the dashboard interactively  
+4. *(Optional)* Unprotect the sheet if you want to edit it
 
 ## 📌 Notes
 
-- Built in Excel 365 – some features may differ slightly in other versions
-- Logos used are for presentation purposes only
+- Built in **Excel 2021** – some features might vary in other versions  
+- Dataset used is private but can be shared upon request  
+- Logos are used for educational and presentation purposes only
 
 ## 👤 Author
 
-Asharani MG  
-https://github.com/ASHARANI-MG
+**Asharani MG**  
+🔗 [GitHub Profile](https://github.com/ASHARANI-MG)  
+📧 ashaa12gowda@gmail.com
