@@ -1,14 +1,22 @@
 # 🏏 IPL Excel Dashboard
 
-An interactive Excel dashboard built using IPL data to analyze team performance, match outcomes, and player achievements.
+This project visualizes **IPL data from 2008 to 2025** using Microsoft Excel.  
+It includes KPIs, charts, and slicers to explore **team performance, toss impact, venues, and player achievements** through an interactive and well-structured dashboard.
 
+## 📊 Key Insights Covered
+
+- ✅ **Matches won by teams** when batting vs fielding first  
+- ✅ **Toss decision-based win percentage** (bat/field)  
+- ✅ **Top 10 venues** with most matches and win breakdown  
+- ✅ **Title winners** from 2008 to 2025  
+- ✅ **Top 10 Player of the Match award winners**
+  
 ## 📊 Features
 
-- Multiple chart types: bar, stacked column, donut, tree maps, and more  
-- Key Performance Indicators (KPIs) with custom formatting  
-- Dynamic data filtering across IPL seasons  
-- Clean and user-friendly layout  
-- Protected sheet with interactive slicers and filters
+- Multiple chart types: stacked bar, donut, tree map, and column charts  
+- KPIs displayed in SmartArt for visual appeal  
+- Clean layout with IPL branding and slicer filters for year-wise exploration  
+- User-friendly design with protected sheet (but interactive controls enabled)
 
 ## ⚙️ Technologies Used
 
