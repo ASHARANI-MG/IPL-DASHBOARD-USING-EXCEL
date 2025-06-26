@@ -63,6 +63,8 @@ To maintain structure, the sheet is protected, but all interactive elements rema
 **Asharani MG**  
 🔗 [GitHub Profile](https://github.com/ASHARANI-MG)  
 📧 ashaa12gowda@gmail.com
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asharani-m-g-a64569229/)
+💼 [LinkedIn](https://www.linkedin.com/in/asharani-m-g-a64569229/)
+
+
 
 
